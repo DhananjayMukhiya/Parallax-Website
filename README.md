@@ -25,7 +25,7 @@ Created as part of my learning journey from **Love Babbar's Dot Batch** 🚀
 
 ### ▶️ Video Preview:
 
-[![Watch the demo](https://github.com/user-attachments/assets/d273cb8c-74b3-4edd-8dc9-91407713a06e)
+[![Watch the demo](https://github.com/user-attachments/assets/d273cb8c-74b3-4edd-8dc9-91407713a06e)]
 
 
 ---
