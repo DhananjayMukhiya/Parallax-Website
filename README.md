@@ -5,27 +5,11 @@ Created as part of my learning journey from **Love Babbar's Dot Batch** 🚀
 
 ---
 
-## 📸 Project Previews
+## 📸 Project Video Previews
 
-### 🖼️ Image Previews:
+https://github.com/user-attachments/assets/79638811-cef1-4499-878d-d6c37a17206d
 
-<p align="center">
-  <img src="media/Parallax Preview Img1.png" width="600" alt="Parallax Preview 1">
-  <br>
-  <img src="media/Parallax Preview Img2.png" width="600" alt="Parallax Preview 2">
-  <br>
-  <img src="media/Parallax Preview Img3.png" width="600" alt="Parallax Preview 3">
-  <br>
-  <img src="media/Parallax Preview Img4.png" width="600" alt="Parallax Preview 4">
-  <br>
-  <img src="media/Parallax Preview Img5.png" width="600" alt="Parallax Preview 5">
-</p>
 
----
-
-### ▶️ Video Preview:
-
-[![Watch the demo](https://github.com/user-attachments/assets/d273cb8c-74b3-4edd-8dc9-91407713a06e)]
 
 
 ---
