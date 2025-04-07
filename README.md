@@ -9,8 +9,11 @@ Created as part of my learning journey from **Love Babbar's Dot Batch** 🚀
 
 https://github.com/user-attachments/assets/79638811-cef1-4499-878d-d6c37a17206d
 
+---
 
+## 🔗 Live Website
 
+👉 **[Click here to view the live demo](https://dhananjaymukhiya.github.io/parallax-website/)**
 
 ---
 
