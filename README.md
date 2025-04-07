@@ -25,10 +25,8 @@ Created as part of my learning journey from **Love Babbar's Dot Batch** 🚀
 
 ### ▶️ Video Preview:
 
-[![Watch the demo]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg](https://github.com/user-attachments/assets/d273cb8c-74b3-4edd-8dc9-91407713a06e))]
+[![Watch the demo](https://github.com/user-attachments/assets/d273cb8c-74b3-4edd-8dc9-91407713a06e)
 
-> Replace `YOUTUBE_VIDEO_ID` with your actual YouTube video ID  
-> Or directly link to video in the `media` folder if not uploaded on YouTube.
 
 ---
 
